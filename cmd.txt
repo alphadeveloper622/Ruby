@@ -1,0 +1,13 @@
+ruby compile
+gem install libv8
+sudo gem install therubyracer
+gem install
+bundle install
+rails -v
+ruby -v
+brew -v
+bundle update
+bundle install
+rake db:migrate
+rails db:migrate
+gem install rails

@@ -1,0 +1,2 @@
+wsl-window ubunt
+rails.org-ruby
